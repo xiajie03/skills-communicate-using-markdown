@@ -11,3 +11,5 @@ _italic style_
 __bold style__
 
 \_\* escape style\-\*
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
